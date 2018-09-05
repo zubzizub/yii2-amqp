@@ -1,6 +1,6 @@
 <?php
 
-namespace zubzizub\amqp;
+namespace cpa\amqp;
 
 use PhpAmqpLib\Message\AMQPMessage;
 use yii\base\InvalidCallException;

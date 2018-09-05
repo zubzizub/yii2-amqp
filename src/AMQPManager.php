@@ -1,6 +1,6 @@
 <?php
 
-namespace zubzizub\amqp;
+namespace cpa\amqp;
 
 use InvalidArgumentException;
 use PhpAmqpLib\Channel\AMQPChannel;

@@ -1,5 +1,5 @@
 {
-    "name": "zubzizub/yii2-amqp",
+    "name": "cpa/amqp",
     "description": "Working with amqp on yii2",
     "authors": [
         {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zubzizub\\amqp\\": "src"
+            "cpa\\amqp\\": "src"
         }
     },
     "repositories": [
